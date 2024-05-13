@@ -1,4 +1,5 @@
 # Semantic Segmentation with DeepLabv3
+![image](https://github.com/KAN201197/Semantic_Segmentation/assets/128454220/a3a2249c-48b7-4bd2-8b75-5309664104c8)
 This repository contains code for performing semantic segmentation using the DeepLabv3 model. Semantic segmentation is a computer vision task where the goal is to classify each pixel in an image into a predefined set of classes, thus dividing the image into meaningful segments. The DeepLabv3 model is a state-of-the-art convolutional neural network architecture designed for accurate and efficient semantic segmentation.
 
 ## Features
